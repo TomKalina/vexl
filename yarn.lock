@@ -23548,10 +23548,8 @@ __metadata:
     "@opentelemetry/sdk-trace-web": ^1.23.0
     "@types/express": ^4
     "@types/text-encoding": ^0
-    "@vexl-next/cryptography": 0.0.0
     "@vexl-next/eslint-config": 0.0.0
     "@vexl-next/prettier-config": 0.0.0
-    "@vexl-next/rest-api": 0.0.0
     "@vexl-next/tsconfig": 0.0.0
     effect: ^3.0.1
     esbuild: ^0.17.16
