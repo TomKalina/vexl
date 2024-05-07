@@ -74,6 +74,7 @@
   "common.km": "km",
   "common.FIAT": "Fiat",
   "common.SATS": "SATS",
+  "common.copied": "Copied",
   "errorGettingSession.title": "Błąd podczas uruchamiania Vexl",
   "errorGettingSession.text": "Wystąpił problem podczas wczytywania błędu twojej sesji: {{errorCode}}. Nie można uruchomić aplikacji bez usuwania danych. Skontaktuj się z pomocą techniczną, aby rozwiązać problemy lub uruchomić ponownie aplikację.",
   "errorGettingSession.contactSupport": "Pomoc techniczna",

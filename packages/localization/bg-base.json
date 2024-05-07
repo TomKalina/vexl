@@ -74,6 +74,7 @@
   "common.km": "km",
   "common.FIAT": "Fiat",
   "common.SATS": "SATS",
+  "common.copied": "Copied",
   "errorGettingSession.title": "Грешка при стартиране на Vexl",
   "errorGettingSession.text": "Възникна проблем при зареждането на вашата сесия ErrorCode: {{errorCode}}. Не може да се стартира приложението, без да се изтрият данните ви. Моля, свържете се с поддръжката, за да опитате да разрешите проблемите или рестартирайте приложението.",
   "errorGettingSession.contactSupport": "Свържи се с поддръжката",
